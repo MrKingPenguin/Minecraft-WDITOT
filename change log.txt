@@ -1,0 +1,26 @@
+CHANGE LOG
+
+
+===Updates===
+
+-Made vexes into minions
+-Made witches into traffic wardens
+-Made husks into cowboys
+-Made evokers into business man
+-Zombie name changed from Psycho to Outcast.
+
+
+===Beta===
+
+16/06/2021
+b0.1
+-Changed name to WDITOT.
+-Renamed Zombie Head to Psycho Head.
+-Renamed Skeleton Skull to Tree Archer Head.
+
+
+===Alpha===
+
+16:10 16/03/2021
+a0.2.1
+-Zombie name changed from Madman to Psycho.
