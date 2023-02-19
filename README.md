@@ -1,1 +1,1 @@
-# Minecraft-WDITOT
+# WDITOT
