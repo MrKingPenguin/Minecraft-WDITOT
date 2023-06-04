@@ -3,6 +3,11 @@ CHANGE LOG
 
 ===Updates===
 
+v0.2.0
+- Made wither skeletons into robot mechs
+- Made drowned into shark men
+- Made zombified piglin into evil piglin
+
 v0.1.1
 - 1.19.4 support
 - Vex/Minion modal changed for 1.19.3
