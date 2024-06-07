@@ -3,6 +3,11 @@ CHANGE LOG
 
 ===Updates===
 
+v0.3.0
+- Made stray into spruce tree archer
+- Updated to work with minecraft 1.20.6
+- Updated stray text to spruce tree archer
+
 v0.2.0
 - Made wither skeletons into robot mechs
 - Made drowned into shark men
