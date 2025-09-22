@@ -1,6 +1,7 @@
 {
     "pack": {
         "description": "Replaces some hotile mobs with nice mobs",
-        "pack_format": 32
+        "pack_format": 32,
+        "supported_formats": [16, 64]
     }
 }
